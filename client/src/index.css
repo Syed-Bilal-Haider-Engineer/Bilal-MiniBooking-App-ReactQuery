@@ -1,0 +1,25 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MuiInputBase-formControl{
+  width: 100%;
+}
+
+.rs-picker-toggle.rs-btn{
+  height: 45px;
+  margin-top: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+}
